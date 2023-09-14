@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 6,
+            "email": "thanin@gmail.com",
+            "password": "$2b$10$8fzIkidYj53fjWiog0Bp..XmncDT0doUDlSQSyLbg3cT3/fIk3OiG",
+            "fname": "tha",
+            "lname": "nin"
+        },
+        {
+            "id": 7,
+            "email": "thaninchin@gmail.com",
+            "password": "$2b$10$PtjL084sr3HEbheAcqkrsO78o5fgxY76qiMsHGKNGWDNqRtBEusKO",
+            "fname": "ธนิน",
+            "lname": "ชินวัฒนกาญจน์"
+        },
+        {
+            "id": 8,
+            "email": "test@email.com",
+            "password": "$2b$10$CSunO4BIIlkwOHPQZhQ6re46WjfjjKt/6iI3dVNImJW79rghqqWxK",
+            "fname": "test",
+            "lname": "test"
+        }
+    ]
+}
